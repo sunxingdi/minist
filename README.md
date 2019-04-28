@@ -1,1 +1,1 @@
-# minist
+# 基于mnist官方Demo增加tensorboard数据存储
