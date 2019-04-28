@@ -1,0 +1,1 @@
+tensorboard --logdir="E:\90.work\python\tensorflow-master\tensorflow\examples\tutorials\mnist_cnn\my_tensorbord_data"
